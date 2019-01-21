@@ -1,0 +1,11 @@
+{
+  "YES": "Ya Bro",
+  "NO": "Tidak",
+  "HELP": "Bantuan",
+  "INFO": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+  "HOME": {
+    "HEADER": {
+      "TITLE": "Judul Header Bro"
+    }
+  }
+}

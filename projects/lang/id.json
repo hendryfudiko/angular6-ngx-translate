@@ -1,0 +1,10 @@
+{
+  "YES": "Ya",
+  "ABOUT": "Tentang",
+  "SELECT_LANGUAGE": "Pilih Bahasa",
+  "HOME": {
+    "HEADER": {
+      "TITLE": "Judul Header Dari Shared Bro"
+    }
+  }
+}

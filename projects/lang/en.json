@@ -1,0 +1,10 @@
+{
+  "YES": "Yes",
+  "ABOUT": "About",
+  "SELECT_LANGUAGE": "Select Language",
+  "HOME": {
+    "HEADER": {
+      "TITLE": "Header Title from Shared Bro"
+    }
+  }
+}
